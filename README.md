@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on web development project,software development project,game development project etc ( ML projects if any..)
 - 📫 How to reach me ...mail me : sunugunus@gmail.com / kritarthanathofficial@gmail.com LinkedIn: https://www.linkedin.com/in/kritartha-nath-27898718b
 
+- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
 <!---
 Kritartha1/Kritartha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
